@@ -1,7 +1,8 @@
 # Ember Eui Changelog
 
 ### Master
-
+🐛 Bug / Fixes
+- Fix EuiImage close icon button
 
 ### 0.0.19
 🚀 Enhancements
